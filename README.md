@@ -50,7 +50,7 @@ My main challenge was figuring out how to get the app to pick a random word.
 
 ## License
 
-    Copyright 2025 Jaidin Walker
+    Copyright 2025 Intermediate Android Development
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
